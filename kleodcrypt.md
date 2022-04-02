@@ -9,6 +9,9 @@
 3. success decryption save files on current directory
  
    ![confirm-success](assets/img/4.png)
-4. open files
+4. open current directory
+   * *extract files [filename].tar/[filename].zip*
+   * *open folder*
+
 
    ![openfiles](assets/img/5.png)
