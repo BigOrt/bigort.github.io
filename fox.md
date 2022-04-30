@@ -36,4 +36,10 @@ choco install proxifier --version=4.05 -y -v
 
 ![target](assets/img/fox/ScreenShot_20220501010842.png)
 
+* view status allowed/block 
+
+![status](assets/img/fox/ScreenShot_20220501014423.png)
+
+* done
+
 
