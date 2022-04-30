@@ -10,7 +10,12 @@ choco install proxifier --version=4.05 -y -v
 ![proxifier](assets/img/fox/ScreenShot_20220501011611.png)
 
 ## run proxifier
+
+### ! Prerequisites
+
 * Download profile: [click](https://www.dropbox.com/s/xp9b2uhkjo0ush2/noidea.ppx?dl=0)
+
+
 * open proxifier
 
 ![open](assets/img/fox/ScreenShot_20220501005616.png)
