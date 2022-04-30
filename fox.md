@@ -12,7 +12,9 @@ choco install proxifier --version=4.05 -y -v
 ## run proxifier
 * Download profile: ![download]()
 * open proxifier
+
 ![open](assets/img/fox/ScreenShot_20220501005616.png)
+
 * load profile
 
 ![load](assets/img/fox/ScreenShot_20220501012406.png)
@@ -24,7 +26,11 @@ choco install proxifier --version=4.05 -y -v
 ### proxifer modified
 
 * allowed traffic
+
 ![allowed](assets/img/fox/ScreenShot_20220501005917.png)
+
 * chose *.exe
+
 ![target](assets/img/fox/ScreenShot_20220501010842.png)
+
 
