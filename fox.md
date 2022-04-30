@@ -15,9 +15,12 @@ choco install proxifier --version=4.05 -y -v
 
 ![open](assets/img/fox/ScreenShot_20220501005616.png)
 
-* load profile
+* import profile
 
 ![load](assets/img/fox/ScreenShot_20220501012406.png)
+
+* view profile
+
 ![view](assets/img/fox/ScreenShot_20220501005641.png)
 
 * done
