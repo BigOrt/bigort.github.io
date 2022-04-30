@@ -1,3 +1,6 @@
+# block traffic 
+
+
 ## install proxifier
 
 * go to powershell  
